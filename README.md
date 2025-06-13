@@ -24,7 +24,7 @@
 
 ### 🔥 Características clave:
 1. **Modular**: Estructura clara para ejemplos y proyectos.
-2. **Práctico**: Incluye un snippet de código funcional.
+2. **Práctico**: Incluye un scrip de código funcional.
 3. **Amigable**: Invita a colaboraciones.
 4. **Profesional**: Con licencia y tecnologías definidas.
 
