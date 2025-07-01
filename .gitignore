@@ -1,0 +1,37 @@
+# Entorno virtual
+interfaces/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración y entornos
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Editor y IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Instalaciones de pip
+pip-selfcheck.json
+
+# Logs y databases
+*.log
+*.sqlite
+
+# Archivos de distribución / builds
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Archivos temporales
+*.tmp
+*~
